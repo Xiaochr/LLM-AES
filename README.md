@@ -17,8 +17,19 @@ Contributions:
 
 - Our findings of the LLM-assisted human evaluation experiments underscore the potential of LLM-generated feedback to elevate the capabilities of individuals with limited domain knowledge to a level comparable to experts.
 
----
 
-Codes and resources will be available soon. 
+# Recommended Reference 
 
+If you find our work useful, please consider citing:
+
+```
+@misc{xiao2024automation,
+      title={From Automation to Augmentation: Large Language Models Elevating Essay Scoring Landscape}, 
+      author={Changrong Xiao and Wenxing Ma and Sean Xin Xu and Kunpeng Zhang and Yufang Wang and Qi Fu},
+      year={2024},
+      eprint={2401.06431},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
