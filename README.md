@@ -1,6 +1,8 @@
 # From Automation to Augmentation: Large Language Models Elevating the Essay Scoring Landscape
 
-This repository contains the codes for the paper [*From Automation to Augmentation: Large Language Models Elevating the Essay Scoring Landscape*](https://arxiv.org/abs/2401.06431). 
+<!-- This repository contains the codes for the paper [*From Automation to Augmentation: Large Language Models Elevating the Essay Scoring Landscape*](https://arxiv.org/abs/2401.06431).  -->
+
+This repository contains the codes for the paper *From Automation to Augmentation: Large Language Models Elevating the Essay Scoring Landscape*. Dataset and other resources will be released after the anonymous period. 
 
 
 # Overview
@@ -18,7 +20,7 @@ Contributions:
 - Our findings of the LLM-assisted human evaluation experiments underscore the potential of LLM-generated feedback to elevate the capabilities of individuals with limited domain knowledge to a level comparable to experts.
 
 
-# Recommended Reference 
+<!-- # Recommended Reference 
 
 If you find our work useful, please consider citing:
 
@@ -31,5 +33,5 @@ If you find our work useful, please consider citing:
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
-```
+``` -->
 
