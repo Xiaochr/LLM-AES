@@ -22,6 +22,11 @@ Suppose you are Li Hua, a senior student at Hongxing High School. Your school is
 2. Explain the reasons behind your design.
 """
 
+student_prompt_2 = """
+Suppose you are Li Hua, a senior high school student at Hongxing High School. Recently, you received a letter from your British friend Jim, learning that his plan to go on a bike trip with friends for a week did not get his parents' permission, and he feels very disappointed. Please write a reply to Jim, including:
+1. Expressing consolation;
+2. Offering advice.
+"""
 
 
 def text_preprocessing(text):
